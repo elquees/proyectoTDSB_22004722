@@ -1,1 +1,2 @@
 proyectoTDSB_22004722
+El proyecto consiste en crear un programa para cotizar seguros, el precio inicial es de 2000, pero se agregan recargos por edad, por edad de cónyugue (si tiene) y por cantidad de hijos (si tiene). Si el solicitante tiene entre 18 y 25 años se le recarga 10%, entre 25 y 50, 20% y arriba de 50, 30%. Si tiene cónyugue se aplica además, un recargo por los mismos valores que del solicitante. Si tiene hijos se agrega un recargo del 20%  por cada hijo. Todos estos porcentajes son sobre el valor inicial (actualmente es 2000 como se mencionó al principio)
